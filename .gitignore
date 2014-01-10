@@ -1,0 +1,8 @@
+.gradle
+build/
+bin/
+gen/
+ant-bin/
+ant-gen/
+*.DS_Store
+*_ob.xml
