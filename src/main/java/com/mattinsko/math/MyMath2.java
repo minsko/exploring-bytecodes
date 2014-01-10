@@ -2,23 +2,23 @@ package com.mattinsko.math;
 
 public class MyMath2 {
 
-public int w(int i, int j) {
-	return i+j;
+public int w(int w, int vv) {
+	return w+vv;
 }
 
-public long w(long i, long j) {
-	return i/j;
+public long w(long w, long vv) {
+	return w/vv;
 }
 
-public int vv(int i, int j) {
-	return i%j;
+public int vv(int w, int vv) {
+	return w%vv;
 }
 
-public double w(double d, double e) {
-	return d * e;
+public double w(double w, double vv) {
+	return w * vv;
 }
 
-public float w(float f) {
-	return f*2;
+public float w(float w) {
+	return w*2;
 }
 }
