@@ -6,3 +6,4 @@ ant-bin/
 ant-gen/
 *.DS_Store
 *_ob.xml
+*.swp
